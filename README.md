@@ -2,6 +2,12 @@
 
 一套基于 Cloudflare Workers + D1 + R2 的自建博客评论系统，支持邮箱注册、Turnstile 人机验证、评论置顶、图片上传、Markdown 预览等功能。
 
+## 预览
+
+| 亮色主题 | 暗色主题 |
+|:---:|:---:|
+| ![亮色主题](https://pub-c1824a6cf1a3422a928b777bbe1c7ef6.r2.dev/covers/comment-light.png) | ![暗色主题](https://pub-c1824a6cf1a3422a928b777bbe1c7ef6.r2.dev/covers/comment-dark.png) |
+
 ## 特性
 
 - **邮箱注册/登录** — Resend 发送 6 位验证码，无需第三方账号
